@@ -4,6 +4,7 @@ pepinillos
 soja
 lechuga
 tomate
+maiz
 
 
 
