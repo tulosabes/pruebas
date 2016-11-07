@@ -1,3 +1,14 @@
 agua
 leche
 carne picada
+pepinillos
+soja
+lechuga
+tomate
+maiz
+
+
+
+
+opcional:
+tofu
